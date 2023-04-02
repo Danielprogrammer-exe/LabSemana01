@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pe.edu.cibertec.proyemp.jpa.entidades.Departamentos&apos; to &apos;Departamento&apos;&#x0D;&#x0A;- Original project: &apos;LabSemana01&apos;&#x0D;&#x0A;- Original element: &apos;pe.edu.cibertec.proyemp.jpa.entidades.Departamentos&apos;&#x0D;&#x0A;- Renamed element: &apos;pe.edu.cibertec.proyemp.jpa.entidades.Departamento&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Departamentos&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;pe.edu.cibertec.proyemp.jpa.entidades{Departamentos.java[Departamentos" matchStrategy="1" name="Departamento" qualified="false" references="true" similarDeclarations="false" stamp="1680455093663" textual="false" version="1.0"/>
+</session>

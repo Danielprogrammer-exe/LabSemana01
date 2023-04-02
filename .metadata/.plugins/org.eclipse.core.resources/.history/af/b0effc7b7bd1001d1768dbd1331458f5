@@ -1,0 +1,7 @@
+package pe.edu.cibertec.proyemp.jpa.entidades;
+
+public class Departamento {
+	private int idDepartamento;
+	private String nomDepartamento;
+	
+}

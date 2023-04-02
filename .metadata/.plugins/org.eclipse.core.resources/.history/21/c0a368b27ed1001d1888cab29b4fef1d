@@ -1,0 +1,22 @@
+package ejecucion;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class Ejecucion01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		EntityManagerFactory fabrica = Persistence.createEntityManagerFactory("PE");		
+		EntityManager manager = fabrica.createEntityManager();
+		
+		
+		Departamento departamento01 = new Departamento();
+		
+		
+		
+	}
+
+}
